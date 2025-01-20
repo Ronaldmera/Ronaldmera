@@ -47,7 +47,6 @@ Explora mis proyectos y conoce más sobre mí aquí:
 - Bases de datos
 - Tecnología y aprendizaje continuo
 
----
 ## 📫 Cómo contactarme
 ¿Tienes alguna idea o proyecto en mente? ¡Hablemos!  
 - 📧 **Correo:** [ronaldalme1230@gmail.com](mailto:ronaldalme1230@gmail.com)  
