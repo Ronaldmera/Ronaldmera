@@ -39,7 +39,7 @@ Soy un joven apasionado por la tecnología y la programación. Actualmente, soy 
 
 ## 🌐 Mi Portafolio
 Explora mis proyectos y conoce más sobre mí aquí:  
-👉 **[Visita mi portafolio](https://ronaldmera.github.io/MiPortafoliov2/)**
+👉 **[Visita mi portafolio](https://ronaldmeradev.netlify.app/)**
 
 
 ## ⚡ Intereses
