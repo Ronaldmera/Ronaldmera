@@ -1,10 +1,10 @@
 #
 <h2 align="center">Hola, soy Ronald Mera 👋</h2>
 
-Soy un joven apasionado por la tecnología y la programación. Actualmente, soy estudiante pero te invito que descubras más sobre mí y algunos proyectos. 🚀
+Soy un joven apasionado por la tecnología y la programación. Actualmente, sigo aprendiendo y mejorando mis habilidades, pero te invito a descubrir más sobre mí y algunos proyectos. 🚀
 
 ## 🌟 Sobre mí
-- 💻 Estudiante de programación, aprendiendo y mejorando mis habilidades cada día.
+- 💻 Apasionado por la programación, aprendiendo y mejorando mis habilidades cada día.
 - 🌱 Actualmente estoy aprendiendo Laravel, diseño responsivo y bases de datos relacionales.
 - 🎯 Mi objetivo es ser un desarrollador especializado y ayudar a mi familia a través de la tecnología.
 
