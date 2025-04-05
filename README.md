@@ -5,7 +5,7 @@ Soy un joven apasionado por la tecnología y la programación. Actualmente, sigo
 
 ## 🌟 Sobre mí
 - 💻 Apasionado por la programación, aprendiendo y mejorando mis habilidades cada día.
-- 🌱 Actualmente estoy aprendiendo Laravel, diseño responsivo y bases de datos relacionales.
+-🌱 Actualmente estoy aprendiendo Laravel y mejorando mis habilidades con APIs.
 - 🎯 Mi objetivo es ser un desarrollador especializado y ayudar a mi familia a través de la tecnología.
 
 
